@@ -1,2 +1,3 @@
 # hello-github
-first repository, Rose Pletcher's account to aid in learning python.  This will contain my practice projects.
+First account to aid in learning python, this will contain my practice projects.
+first repository
